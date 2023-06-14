@@ -33,10 +33,11 @@ We have considered to take immunization and GDP as these factors have a relation
 Governments and world leaders are in charge of bettering the lives of their citizens. Government officials create laws and policies that have an impact on people's quality of life. The development of effective laws takes planning and requires research. Understanding what increases a population's lifespan is an essential move to start these inquiries. To fulfil this need, our project will demonstrate the variables or factors that are considered and have an impact on a person's life expectancy. Our reports can also look at the variables or circumstances that indicate or foretell a population's unfavourable effects. Predictions of the Life Expectancy of the Selected Region are now more prominent in demand by the Governmental Bodies and the Private Bodies and their Policy-Making With the advancement in new systematic, accurate, efficient, and result-oriented techniques in the field of Data Science.
 
 The data that we use is being classified into 4 categories: 
+
 1) Social factors: Social factors such as Alcohol consumption, schooling etc
-2)Economic factors: Such as GDP, Income composition
-3)Mortality: Adult mortality rates of both sexes
-4)Immunization
+2) Economic factors: Such as GDP, Income composition
+3) Mortality: Adult mortality rates of both sexes
+4) Immunization
 
 The outcome variable which will be examined is life expectancy.
 
@@ -45,15 +46,15 @@ Inorder to find the relation between the variables we used or constructed a heat
 ## Specific Objective(s)
 Listed below are the specific objectives that we decided to analyse and learn more about
 
-1)Analysation of life Expectancy of all the Countries in the period 2000-2015
+1) Analysation of life Expectancy of all the Countries in the period 2000-2015
 
 When examined has the life expectancy of all the countries together increased/ decreased from the start of 2000 – 2015? Justify why has it increased/reduced
 
-2)Schooling's impact on Life expectancy
+2) Schooling's impact on Life expectancy
 
 Do you believe that the teaching of a healthy lifestyle in schools is having an impact on the life expectancy rate?
 
-3)Developed vs Developing nations
+3) Developed vs Developing nations
 
 When compared and analysed which among them have a higher average life expectancy rate(Developing vs Developed)? Justification of the result
 
@@ -88,7 +89,7 @@ Our project used various visualisation and cleaning techniques to analyse the WH
 
 ### Objective 1
 
-1)Analysation of life Expectancy of all the Countries in the period 2000-2015.
+Analysation of life Expectancy of all the Countries in the period 2000-2015.
 
 After analysis and operation, we found out that the Average life expectancy of the countries has increased. In the year 2000 the average life expectancy was 66.5 years, whereas in 2015 it rose sharply to 71.6 by 5.1 years. This shows a significant improvement in the countries' life expectancy rate.
 The increase in the life expectancy rate was possible only due to the collective rise in Schooling duration of the individuals, Total expenditure or spending of the government on healthcare systems, GDP, Income Composition and immunisation. The collaborative efforts of government bodies on healthcare systems and facilities have paved the way for medical institutions to provide quality treatment to patients with the help of sophisticated healthcare machinery and tools. Additionally, there was a significant increase in the average number of years that people spent on their education, which increased their capability to land a promising career and be financially stable to maintain a healthy lifestyle. 
@@ -97,7 +98,7 @@ The increase in the life expectancy rate was possible only due to the collective
 
 ### Objective 2
 
-2)Schooling's Impact on Life expectancy
+Schooling's Impact on Life expectancy
 
 From the analysis and operation of data, we can clearly see that the countries with children who undergo schooling for a longer duration have a higher life expectancy than the countries which do not. 
 This isa because school education provides the basic knowledge of a healthy lifestyle and the care to be taken right from the beginning of their lives. It induces a sense of responsibility in the child or student to take care of their health and avoid unhealthy eating and drinking habits.
@@ -106,6 +107,7 @@ Countries such as Congo, Finland, Australia, and the Netherlands, which have peo
 There is a good relationship between an individual's mortality rate and the educational duration because a country with a proportion of individuals with a good schooling duration will automatically reduce the proportion of individuals with a low schooling duration, consequently increasing the overall health of the population and life expectancy. 
 
 <img width="670" alt="image" src="https://github.com/bochiwalritik/lifeexp-who-analysis/assets/79448462/0601fca8-4877-48dd-b8ca-fa74eca6e356">
+
 ### Objective 3
 
 Although the average human life expectancy has improved worldwide, there is still a significant difference in average life expectancies between various countries.
